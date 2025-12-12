@@ -107,7 +107,7 @@ const Index = () => {
       name: 'Бог',
       price: '2999₽',
       features: ['Fly', 'GM 1', 'Все возможности Короля', 'Сфера Бога', 'Сфера Строителя'],
-      image: 'https://cdn.poehali.dev/files/bfhvj3s1_обработано.png'
+      image: 'https://cdn.poehali.dev/files/av9ie0a9_обработано.png'
     }
   ];
 
